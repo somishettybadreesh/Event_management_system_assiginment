@@ -22,6 +22,9 @@ Backend API at http://localhost:8000
 ## Features
 
 - Signup, login with role-based access (admin and normal users)
+
+- <img width="670" height="916" alt="image" src="https://github.com/user-attachments/assets/54710e81-95a7-430f-a728-279bfa122aa4" />
+
 - Admin CRUD on events
 - Normal user event browsing
 - Responsive UI via Tailwind CSS
