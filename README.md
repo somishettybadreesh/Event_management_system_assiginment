@@ -1,5 +1,8 @@
 # Event Management System
 
+<img width="1919" height="1045" alt="Screenshot 2025-09-18 140450" src="https://github.com/user-attachments/assets/6a170001-eecf-4e00-b750-e63e501bb161" />
+
+
 ## Setup and Run
 
 ### Backend
