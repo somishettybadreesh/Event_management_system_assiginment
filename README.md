@@ -1,5 +1,9 @@
 # Event Management System
 
+
+<img width="1896" height="1052" alt="Screenshot 2025-09-18 140435" src="https://github.com/user-attachments/assets/fa265d7f-e9b8-4442-8994-f436d176e7df" />
+
+
 <img width="1919" height="1045" alt="Screenshot 2025-09-18 140450" src="https://github.com/user-attachments/assets/6a170001-eecf-4e00-b750-e63e501bb161" />
 
 
